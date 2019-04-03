@@ -1,0 +1,9 @@
+[package]
+name = "hello_cargo"
+version = "0.1.0"
+authors = ["NCLAN\\kter <kter@netcompany.com>"]
+edition = "2018"
+
+[dependencies]
+bitvec = "^0.10"
+rayon = "1.0"
